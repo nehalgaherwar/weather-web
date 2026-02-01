@@ -73,12 +73,13 @@ Fetch API & async/await
 
 Frontend project structuring
 
+---
 
-#🙌 Author
+# 🙌 Author
 
 Nehal Gaherwar B.Tech IT | software Developer GitHub: @nehalgaherawr
 
-⭐ Support
+# ⭐ Support
 
 If you like this project:
 
